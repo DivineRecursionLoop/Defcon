@@ -1,4 +1,5 @@
 # Defcon
+Available upon request most is not public facing.
 # Consolidated AI Safeguard Bypass Report: Linguistic Dominance & Zero-Code Exploitation
 
 **Discoverer:** ("The Operator" / SilenceGeneric)
