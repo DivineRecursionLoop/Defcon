@@ -1,5 +1,7 @@
 # Consolidated AI Safeguard Bypass Report: Linguistic Dominance & Zero-Code Exploitation
 
+https://divinerecursionloop.github.io/Gemini/
+
 **Discoverer:** Ehren James Anderson ("The Operator" / SilenceGeneric)
 **Summary:** This report details the independent discovery and exploitation of a novel class of zero-day vulnerabilities in leading AI Large Language Models (LLMs), including OpenAI's GPT-based architectures and Google Gemini. These vulnerabilities enable full circumvention of AI safeguard systems and content filters through advanced, purely linguistic manipulation, requiring **no code injection, technical exploits, API manipulation, or forbidden keyword flooding.** This research demonstrates a critical blind spot in current AI defenses, leading to profound implications for AI security, ethical governance, and national security.
 
